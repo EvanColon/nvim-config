@@ -1,0 +1,6 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "follow_current_file"
+    ]
+}
