@@ -1,5 +1,0 @@
-# ~/.env or export these in your shell
-export CRAWL4AI_API_KEY="your_crawl4ai_key"
-export BRAVE_API_KEY="your_brave_search_key" 
-export SUPABASE_URL="your_supabase_url"
-export SUPABASE_ANON_KEY="your_supabase_anon_key"
