@@ -12,8 +12,8 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("vim-options")
+
+-- require('coding_assistant.mcp_client').setup()
 require("lazy").setup("plugins")
-
-
-
+-- require('coding_assistant').setup()
 
